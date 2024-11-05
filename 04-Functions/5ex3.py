@@ -11,7 +11,6 @@ last_name = input_string("Enter last name: ")
 age = input_int("Enter age: ")
 salary = input_real("Enter salary: ")
 is_salary_hidden = input_boolean('Hide salary? (y/n)')
-
 # Prints employee's record
 print('DATA RECORD')
 print('===========')

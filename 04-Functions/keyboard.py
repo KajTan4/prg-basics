@@ -15,8 +15,8 @@ def input_real(message):
 
 def input_boolean(message):
     x = input(message)
-    if x == y:
+    if x == 'y':
         return True
-    elif x == n:
+    elif x == 'n':
         return False
     
