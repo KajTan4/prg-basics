@@ -1,0 +1,1 @@
+ms_to_km = lambda x : x*3.6
